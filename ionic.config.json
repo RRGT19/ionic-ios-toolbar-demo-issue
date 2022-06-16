@@ -1,0 +1,7 @@
+{
+  "name": "delete-ionic-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
