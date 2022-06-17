@@ -1,0 +1,13 @@
+:host.dark-mode {
+  ion-toolbar {
+    --background: #0A0C24;
+  }
+
+  ion-title {
+    color: white;
+  }
+
+  ::ng-deep ion-back-button {
+    color: white;
+  }
+}
